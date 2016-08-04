@@ -6,6 +6,10 @@ Please enter content to content.text file. foramt result content will output to 
 - format   
 - restore   
 
+![Screenshot](https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/StringDemoAnimation.gif "Demo")   
+此工具思路来源于:https://github.com/windgodvc/HOStringSense-for-Xcode   
+由于是xcode 的插件无法在多平台使用 所以 我才翻译到python.
+
      
      
      
