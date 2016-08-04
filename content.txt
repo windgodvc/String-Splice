@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="css/bootstrap.min.css" media="screen" rel="stylesheet">
+    <link href="css/style.css" media="screen" rel="stylesheet">
+
+    <script src = "js/bootstrap.min.js"></script>
+    <script src = "js/jquery-1.8.3.min.js"></script>
+
+    <script src = "js/main.js"></script>
+
+
+</head>
+
+<body>
+    <div id='topmenu'></div>
+
+</body>
